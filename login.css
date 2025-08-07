@@ -1,0 +1,41 @@
+/* ************************* login page ********************************* */
+@font-face {
+    font-family: "Honey";
+    src: url(HoneyScript-Light.ttf);
+}
+*{
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+}
+.main-body{
+    background-image: url("img/login.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.logo{
+    background-image: url("img/logo.svg");
+    height: 100px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.title01{
+    font-family: "Honey";
+    font-size: 3rem;
+    letter-spacing: 0.5rem;
+}
+
+.title02{
+    font-size: 25px;
+    font-weight: bold;
+    font-size: 30px;
+    letter-spacing: 3px;
+}
+.background{
+    background-image: url("resources/background.svg");  
+    background-size: contain;
+    background-position: center; 
+    background-repeat: no-repeat;
+}
